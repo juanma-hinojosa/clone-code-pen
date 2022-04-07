@@ -1,0 +1,32 @@
+.footer-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgb(54, 56, 63);
+    height: 50px;
+}
+
+.footer-links > .footer-link {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: bolder;
+    font-size: 1.2rem;
+    width: 25%;
+    display: flex;
+    align-items: center;
+    border: 1px solid rgb(103, 103, 103);
+    padding: 8px 0px;
+}
+
+.footer-links > .footer-link a {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    text-decoration: none;
+} 
+
+.footer-links > .footer-link > a strong {
+    font-family: 'Righteous', cursive;
+    margin-left: 4px;
+}

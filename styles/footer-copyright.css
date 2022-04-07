@@ -1,0 +1,9 @@
+.footer-copyright {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #191a1d;
+    height: 75px;
+    font-family: 'Hind Siliguri', sans-serif;
+    color: whitesmoke;
+}

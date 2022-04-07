@@ -1,0 +1,16 @@
+:root {
+    --main-bg-color: brown;
+    --verde: rgb(75, 206,121);
+    --gris-oscuro: rgb(25,26,29);
+    --gris-claro: rgb(54,56,63);
+    --celeste: rgb(120,212,220);
+    --beige: rgb(221,196,98);
+}
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
